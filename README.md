@@ -18,9 +18,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=smsmorsalin&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smsmorsalin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-### ⏳ Weekly Coding Time
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smsmorsalin&theme=radical&layout=compact&range=last_7_days)](https://wakatime.com/@smsmorsalin)
-<br><br>
+
 ![Code Time](https://img.shields.io/badge/Code%20Time-Tracking-blue?style=plastic&logo=clock&logoColor=white)
 
 
@@ -29,8 +27,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smsmorsalin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sonjoysd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=smsmorsalin.smsmorsalin)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sonjoysd.sonjoysd)
